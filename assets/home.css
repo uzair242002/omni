@@ -1,0 +1,11 @@
+.navbar-nav .nav-item {
+    margin: 0 15px; 
+  }
+  .container-card{
+    margin-bottom: 20%;
+}
+video {
+  width: 100%;
+  height: auto;
+  align-self: center;
+}

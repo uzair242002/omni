@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(250, 250, 250);
+    /*background-image: url(http://getwallpapers.com/wallpaper/full/d/0/a/272662.jpg);
+    /*background-repeat: no-repeat;
+    background-size: cover;*/
+}
+.card{
+    background-color: #231d1d;
+    width: 300px;
+    height: 350px;
+    margin-top: 10%;
+    margin-left: 40%;
+    text-align: center;
+    border-radius: 20px;
+}
+.username{
+    margin-top: 4%;
+    color: #f0f0f0;
+}
+.password{
+    margin-top: 4%;
+    color: #f0f0f0;
+}
+.email{
+    margin-top: 4%;
+    color: #f0f0f0;
+}
+.forgotPassword{
+    margin-top: 4%;
+    color: #f0f0f0;
+}
+.register{
+    margin-top: 4%;
+    color: #f0f0f0;
+}
+.btn{
+    margin-top: 4%;
+    background-color:rgb(255, 255, 255);
+    color:black;
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+}
+.card input{
+    width: 80%;
+    height: 30px;
+    outline:none;
+    border:none;
+    border-radius: 10px;
+}
+.card h3{
+    margin-top: 4%;
+}
